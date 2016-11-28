@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  LocalizationOptions
+
+  Created by Abhinav Singh on 28/11/16.
+  Copyright © 2016 Leftshift Technologies. All rights reserved.
+*/
+
+"This is the UILabel text from code" = "Este es el texto UILabel del código";
